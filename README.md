@@ -5,7 +5,7 @@
 - Text cleaning using regular expression
 - Text tokenization
 - Text data analysis
-- Text data vizualization
+- Text data vizualization (plotly doesn't show on the notebook when uploaded here, but you can rerun the code)
 
 ### **Word Cloud Produced**
 <img src="https://github.com/a-tabaza/arabic-tweet-processing-vizualization/blob/main/arabic_tweets_word_cloud.jpg?raw=true"  width="800" height="800">
